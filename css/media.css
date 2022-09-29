@@ -1,0 +1,1114 @@
+@media (max-width: 1440px) {
+    .container{
+        width: 90%;
+    }
+
+    .real {
+        margin: 0 -71px;
+    }
+
+    #mission {
+        margin-left: 48px;
+    }
+
+    .read {
+        margin: 0 0 0 -9px;
+    }
+
+    .hey h1 {
+        margin-left: 48px;
+    }
+
+    .hey p {
+        margin-left: 41px;
+    }
+
+    .lunch h1 {
+        margin-left: 9px;
+    }
+
+    .nine button {
+        margin-left: 50px;
+    }
+
+    .offer {
+        margin-left: 75px;
+    }
+
+
+    .rest h1 {
+        margin-left: 22px;
+    }
+
+    .deer {
+        margin-left: 71px;
+    }
+
+    .cinema {
+        padding-bottom: 130px;
+        margin-left: -30px;
+    }
+
+    .fifty {
+        margin-left: -3px;
+    }
+
+}
+
+@media (max-width: 1200px) {
+
+    .container{
+        width: 90%;
+    }
+
+    .finish {
+        width: 1201px;
+
+    }
+
+    .real {
+        margin: 0 -60px;
+    }
+
+    #hero{
+        min-height: 0;
+        padding: 40px 0;
+    }
+
+    .ring {
+        width: 90%;
+        margin-left: -50px;
+    }
+
+
+
+    #mission {
+        margin-left: -74px;
+    }
+
+    .put p {
+        margin: -15px 0 0 0;
+    }
+
+    .offer {
+        margin-left: -60px;
+    }
+
+    .buy {
+        flex-direction: column;
+    }
+
+    .turkey {
+        flex-direction: column;
+        padding: 10px;
+    }
+
+    .rest h1 {
+        margin-left: 18px;
+    }
+
+
+    .type {
+        flex-direction: column-reverse;
+    }
+
+    .deer {
+        width: 1000px;
+        height: 2300px;
+        margin-left: -20px;
+    }
+
+    .cold h1 {
+        margin-left: 304px;
+    }
+
+}
+
+@media (max-width: 1024px) {
+
+    .container{
+        width: 90%;
+    }
+
+
+    .finish {
+        margin-left: 30px;
+        width: 1182px;
+    }
+
+    .real {
+        margin: 0 -51px;
+    }
+
+
+   .block h1{
+        font-size: 40px;
+   }
+
+    .ring {
+        margin-left: 36px;
+    }
+
+    .cold h1 {
+        margin-left: 235px;
+
+    }
+
+    .get{
+        flex-direction: column;
+    }
+
+    .did {
+
+        margin-left: 187px;
+    }
+
+    .lay {
+        justify-content: space-evenly;
+    }
+
+    .put h1 {
+        line-height: 54px;
+    }
+
+    .put1 h1 {
+        margin-left: 275px;
+    }
+
+    .put1 p {
+        text-align: center;
+        margin-left: 50px;
+    }
+
+    .put3 h1 {
+        margin-left: 271px;
+    }
+
+    .put3 p {
+        text-align: center;
+        margin-left: 50px;
+    }
+
+
+    #mission {
+        margin-left: -251px;
+    }
+
+    .read {
+        margin: 0 0 0 46px;
+    }
+
+    .read p {
+        margin-left: 9px;
+    }
+
+    .lunch h1 {
+        margin-left: 140px;
+
+    }
+
+    .hey h1 {
+        margin-left: 97px;
+    }
+
+    .hey p {
+        margin-left: 90px;
+    }
+
+    .nine button {
+        margin-left: 158px;
+    }
+
+    .cinema {
+        margin-left: 69px;
+    }
+
+    .cinema p {
+        font-weight: 500;
+        font-size: 13px;
+    }
+
+    .offer {
+        justify-content: space-evenly;
+        width: 1033px;
+    }
+
+    .deer {
+        width: 799px;
+        height: 2300px;
+        margin-left: 5px;
+    }
+
+    .cousin h1 {
+        margin-left: 63px;
+    }
+
+    .super button {
+        margin-left: 39px;
+    }
+
+    .like button {
+        margin-left: 42px;
+    }
+
+    .fifty {
+        margin-left: 0;
+    }
+
+    .wife p {
+        margin-left: 61px;
+    }
+
+    .mild {
+        margin: 36px 0 0 31px;
+    }
+
+    .cousin {
+        padding-bottom: 100px;
+        margin: -38px 0 0 0;
+    }
+
+
+}
+
+@media (max-width: 992px) {
+
+    .container{
+        width: 90%;
+    }
+
+
+    .put1 h1 {
+        margin-left: 260px;
+    }
+
+    .put3 h1 {
+        margin-left: 263px;
+    }
+
+    .did {
+        margin: 0 172px;
+    }
+
+
+   .hero{
+       justify-content: center;
+       flex-direction: column;
+   }
+
+
+    .block{
+        padding-bottom: 40px;
+    }
+    .block h1{
+        text-align: center
+    }
+    .block p{
+        text-align: center;
+    }
+
+    .large{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+   
+
+    .lunch h1 {
+        font-size: 32px;
+    }
+
+    .put h1 {
+        margin-left: -2px;
+    }
+
+    .read {
+        justify-content: flex-start;
+    }
+
+    #mission {
+        margin-left: -75px;
+    }
+
+    .read {
+        margin: 0 0 0 -12px;
+    }
+
+    .hey h1 {
+        margin-left: 123px;
+    }
+
+    .hey p {
+        margin-left: 122px;
+    }
+
+    .lunch h1 {
+        font-size: 31px;
+    }
+
+    .nine button {
+        margin-left: 132px;
+    }
+
+    .finish {
+        margin-left: -128px;
+        width: 1144px;
+    }
+
+    .cinema {
+        margin-left: 97px;
+    }
+
+    .know {
+        margin-left: 57px;
+    }
+
+    .offer {
+        width: 1002px;
+    }
+
+    .deer {
+        width: 799px;
+        height: 2300px;
+        margin-left: -14px;
+    }
+
+    .super button {
+        margin-left: 3px;
+    }
+
+
+
+
+}
+
+@media (max-width: 768px) {
+
+    .container{
+        width: 90%;
+    }
+
+    .finish {
+        width: 931px;
+        height: 1685px;
+    }
+
+    .read {
+        flex-direction: column;
+    }
+
+    .block h1 {
+        margin-left: 23px;
+    }
+
+    .header-nav{
+        display: none;
+    }
+
+    .win h1 {
+        font-size: 24px;
+    }
+
+
+
+    .lunch h1 {
+        font-size: 24px;
+        margin-left: 182px;
+    }
+
+
+    .put1 p {
+        text-align: center;
+        margin-left: 36px;
+    }
+
+
+    .put1 h1 {
+        margin-left: 167px;
+    }
+
+    .put3 h1 {
+        margin-left: 170px;
+    }
+
+
+    .did {
+        margin: 0 79px;
+    }
+
+
+    .read p {
+        margin-left: 2px;
+    }
+
+    .cold h1 {
+        margin-left: 143px;
+    }
+
+    .know {
+        margin-left: -2px;
+    }
+
+
+    .rio-line {
+        width: 500px;
+        height: 4px;
+    }
+
+    .offer {
+        flex-direction: column;
+        width: 790px;
+        height: 900px;
+    }
+
+    .deer {
+        width: 648px;
+        height: 2315px;
+        margin-left: -38px;
+    }
+
+    .type {
+        flex-direction: column-reverse;
+        margin-left: -25px;
+    }
+
+
+    .slim {
+        flex-direction: column;
+    }
+
+    .mild {
+        margin: -180px 0 0 0;
+        text-align: center;
+    }
+
+    .wife {
+        padding-bottom: 50px;
+        margin: 0 0 0 -59px;
+        text-align: center;
+    }
+
+
+    .cousin {
+        padding-bottom: 100px;
+        margin: -108px 0 0 0;
+    }
+
+    #slim {
+        background: #4cb904;
+        padding: 47px;
+    }
+
+
+    .cinema {
+        margin: -36px 0 0 159px;
+    }
+
+    .nane {
+        padding-bottom: 130px;
+        text-align: center;
+        margin: -42px 0 0 0;
+    }
+
+
+
+}
+
+@media (max-width: 576px) {
+
+    .container{
+        width: 90%;
+    }
+
+    .hero-footer {
+        flex-wrap: wrap;
+    }
+
+    .run {
+        flex-direction: column;
+    }
+
+    .world h1 {
+        padding-bottom: 14px;
+        margin-left: 49px;
+    }
+
+    .read p {
+        margin-left: 4px;
+    }
+
+    .put1 h1 {
+        margin-left: 72px;
+    }
+
+    .put1 p {
+        text-align: center;
+        margin-left: 9px;
+    }
+
+    .put3 h1 {
+        margin-left: 76px;
+    }
+
+    .put3 p {
+        text-align: center;
+        margin-left: 9px;
+    }
+
+    .lose {
+        flex-direction: column;
+    }
+
+    .world h1 {
+        padding-bottom: 10px;
+    }
+
+    .did {
+        margin: 0 22px;
+        width: 90%;
+    }
+
+    .lunch h1 {
+        font-size: 16px;
+        margin-left: 189px;
+    }
+
+
+    .finish {
+        width: 746px;
+    }
+
+    .half button {
+        margin-left: 30px;
+    }
+
+    .nine button {
+        margin-left: 191px;
+    }
+
+    .know {
+        flex-direction: column;
+    }
+
+    .cold h1 {
+        margin-left: 4px;
+        width: 309px;
+    }
+
+
+    .offer {
+        width: 579px;
+        height: 900px;
+        margin-left: -30px;
+    }
+
+    .deer {
+        width: 466px;
+        height: 3184px;
+        margin-left: -38px;
+    }
+
+    .floor {
+        margin: 0 0 0 88px;
+    }
+
+    .kennel{
+        margin: 0 0 0 88px;
+    }
+
+    .floor1 {
+        margin: 0 0 0 88px;
+    }
+
+    .buy {
+        flex-direction: column;
+        margin-left: 33px;
+    }
+
+    .rest h1 {
+        margin: 0 0 0 49px;
+    }
+
+    .next {
+        flex-direction: column;
+    }
+
+    .seldom button {
+        margin-left: 30px;
+    }
+
+    .near {
+        flex-direction: column;
+    }
+
+    .seeing{
+        margin: 0 0 0 0 ;
+    }
+
+    .seeing {
+        margin: -41px 0 0 0;
+    }
+
+    .cinema {
+        margin: -52px 0 0 190px;
+    }
+
+}
+
+@media (max-width: 451px) {
+
+    .container{
+        width: 90%;
+    }
+
+    .block h1 {
+        margin-left: 13px;
+    }
+
+    .ring {
+        margin-left: 18px;
+    }
+
+
+    .red2{
+        width: 90%;
+    }
+
+    .real{
+        margin: 0;
+    }
+
+    .win h1 {
+        font-size: 23px;
+    }
+
+    .did {
+        margin: 46px 15px;
+        width: 90%;
+    }
+
+    .read p {
+        font-size: 13px;
+        margin: 0 0;
+    }
+
+    .put1 h1 {
+        margin-left: 23px;
+    }
+
+    .put3 h1 {
+        margin-left: 23px;
+    }
+
+    .world h1 {
+        margin: 0 -27px;
+    }
+
+    .finish {
+        width: 629px;
+    }
+
+    .lay {
+        flex-direction: column;
+        margin:-27px 0 0 0;
+    }
+
+    .put p {
+        padding-bottom: 12px;
+
+    }
+
+    .lunch h1 {
+        font-size: 17px;
+    }
+
+    .cold h1 {
+        margin-left: -27px;
+
+    }
+
+    .know {
+
+        margin-left: 31px;
+    }
+
+    .offer {
+        width: 453px;
+        height: 900px;
+        margin-left: -25px;
+    }
+
+    .rio-line {
+        width: 342px;
+        height: 4px;
+    }
+
+    .too {
+        text-align: center;
+        margin-left: -15px;
+    }
+
+
+    .floor {
+        margin: 0 0 0 26px;
+    }
+
+    .kennel {
+        margin: 0 0 0 34px;
+    }
+
+    .floor1 {
+        margin: 0 0 0 9px;
+    }
+
+    .deer {
+        width: 346px;
+        height: 3326px;
+        margin-left: -38px;
+    }
+
+    .rest h1 {
+        margin: 0 0 0 1px;
+    }
+
+}
+
+@media (max-width: 426px) {
+
+    .container{
+        width: 90%;
+    }
+
+    .block h1 {
+        font-size: 35px;
+    }
+
+    .win h1 {
+        font-size: 21px;
+    }
+
+    .put1 h1 {
+        margin-left: 10px;
+    }
+
+    .put3 h1 {
+        margin-left: 10px;
+    }
+
+    .world h1 {
+        margin: 0 -30px;
+    }
+
+    .lunch h1 {
+        margin-left: 180px;
+    }
+
+    .half button {
+        margin-left: -5px;
+    }
+
+    .finish {
+        width: 605px;
+    }
+
+    .offer {
+        width: 430px;
+        height: 900px;
+        margin-left: -25px;
+    }
+
+    .deer {
+        width: 322px;
+        height: 3326px;
+        margin-left: -38px;
+    }
+
+    .rest h1 {
+        margin: 0 0 0 31px;
+    }
+
+    .rest h1 {
+        margin: 0 0 0 -9px;
+    }
+
+
+
+}
+
+@media (max-width: 380px) {
+
+    .container{
+        width: 90%;
+    }
+
+    .block h1 {
+        font-size: 33px;
+    }
+
+    .put1 h1 {
+        margin-left: -6px;
+        font-size: 16px;
+    }
+
+    .win h1 {
+        font-size: 18px;
+    }
+
+    .read p {
+        margin-left: 7px;
+    }
+
+    .lay {
+        flex-direction: column;
+    }
+
+
+    .put3 h1 {
+        margin-left: 3px;
+        font-size: 15px;
+    }
+
+    .put1 p {
+        font-size: 17px;
+    }
+
+    .world h1 {
+        margin: 0 -51px;
+    }
+
+    .finish {
+        width: 561px;
+    }
+
+    .lunch h1 {
+        font-size: 20px;
+    }
+
+    .cold h1 {
+        margin-left: -63px;
+    }
+
+    .offer {
+        width: 387px;
+        height: 900px;
+        margin-left: -25px;
+    }
+
+    .deer {
+        width: 279px;
+        height: 3412px;
+        margin-left: -38px;
+    }
+
+    .rest h1 {
+        margin: 0 0 0 30px;
+    }
+
+    .kennel {
+        margin: 0 0 0 47px;
+    }
+
+    .floor1 {
+        margin: 0 0 0 21px;
+    }
+
+    .artist button {
+        margin: 0 0 0 9px;
+    }
+
+    .cube {
+        flex-direction: column;
+    }
+
+
+
+
+}
+
+@media (max-width: 370px) {
+
+    .container{
+        width: 90%;
+    }
+
+    .block h1 {
+        font-size: 32px;
+    }
+
+    .win h1 {
+        font-size: 17px;
+    }
+
+    .put1 h1 {
+        margin-left: -15px;
+    }
+
+    .put3 h1 {
+        margin-left: -15px;
+    }
+
+    .put3 p {
+        text-align: center;
+        margin-left: 2px;
+    }
+
+    .put1 p {
+        text-align: center;
+        margin-left: 2px;
+    }
+
+    .world h1 {
+        margin: 0 -55px;
+    }
+
+    .finish {
+        width: 552px;
+    }
+
+    .offer {
+        width: 376px;
+        height: 900px;
+        margin-left: -25px;
+    }
+
+    .too {
+        text-align: center;
+        margin-left: 1px;
+    }
+
+
+    .hint{
+        margin-left: 56px;
+    }
+
+    .deer {
+        width: 270px;
+        height: 3412px;
+        margin-left: -38px;
+    }
+
+
+}
+
+@media (max-width: 320px) {
+
+    .container{
+        width: 90%;
+    }
+
+    .block h1 {
+        font-size: 28px;
+    }
+
+    .win h1 {
+        font-size: 14px;
+    }
+
+    .put1 h1 {
+        margin-left: -6px;
+        font-size: 11px;
+    }
+
+
+
+    .put p {
+        margin-inline-start: 11px;
+    }
+
+    .read p {
+        margin: 13px 0 0 0;
+    }
+
+    .put h1 {
+        font-size: 14px;
+        margin-left: 9px;
+    }
+
+    .put1 p {
+        text-align: center;
+        margin-left: 2px;
+        font-size: 12px;
+    }
+
+    .put3 h1 {
+        margin-left: -16px;
+        font-size: 12px;
+    }
+
+    .lunch h1 {
+        font-size: 17px;
+        margin-left: 180px;
+    }
+
+    .put3 p {
+        text-align: center;
+        margin-left: 2px;
+        font-size: 12px;
+    }
+
+
+    .world h1 {
+        margin: 0 -78px;
+    }
+
+
+    .finish {
+        width: 503px;
+    }
+
+    .cold h1 {
+        margin-left: -63px;
+        font-size: 27px;
+    }
+
+    .know {
+        margin-left: 12px;
+    }
+
+    .offer {
+        width: 330px;
+        height: 900px;
+        margin-left: -25px;
+    }
+
+    .port h1 {
+        font-size: 21px;
+    }
+
+    .rio-line {
+        width: 301px;
+        height: 4px;
+    }
+
+    .deer {
+        width: 222px;
+        height: 3490px;
+        margin-left: -38px;
+    }
+
+    .was{
+        padding-bottom: 62px;
+    }
+
+    .rest h1 {
+        margin: 0 0 0 2px;
+    }
+
+    .match h1 {
+        font-size: 26px;
+
+    }
+
+    .cube {
+        flex-direction: column;
+        margin-left: -17px;
+    }
+
+    .cinema {
+        margin: -42px 0 0 195px;
+    }
+
+
+
+}
